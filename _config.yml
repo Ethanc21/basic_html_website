@@ -4,3 +4,5 @@ plugins:
 
 title: [Ethans Website]
 description: [This website was made to show off my ability to create a website]
+theme: [jekyll-theme-minimal]
+
